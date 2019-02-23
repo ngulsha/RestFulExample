@@ -9,6 +9,7 @@
 	<name>01_jaxrs_helloWorld Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
+	<!-- changes need to be done  -->
 		<!--junit/junit-api -->
 		<dependency>
 			<groupId>junit</groupId>
